@@ -37,15 +37,15 @@ python test_single_image.py ./data/demo_data/open.jpg
 
 Some results:
 
-![](https://github.com/wizyoung/YOLOv3_TensorFlow/blob/master/data/demo_data/results/open.jpg?raw=true)
+![](https://github.com/yujunhua/eyes_detector/blob/master/data/demo_data/results/result_1.jpg?raw=true)
 
-![](https://github.com/wizyoung/YOLOv3_TensorFlow/blob/master/data/demo_data/results/close.jpg?raw=true)
+![](https://github.com/yujunhua/eyes_detector/blob/master/data/demo_data/results/result_2.jpg?raw=true)
 
 ### 5. Model architecture
 I used part of the yolo_v3_architecture, thanks to [wizyoung](https://github.com/wizyoung) again!
 
 You can refer to the following picture. I just deleted the upper right part which is in red box.
-![](https://github.com/wizyoung/YOLOv3_TensorFlow/blob/master/docs/yolo_v3_architecture.png?raw=true)
+![](https://github.com/yujunhua/eyes_detector/blob/master/docs/yolo_v3_architecture.png?raw=true)
 
 ### 6. Training
 
